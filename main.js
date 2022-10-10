@@ -33,3 +33,4 @@ undefined + 1    NaN
 " \t \n" - 2     -2 */
 let ff = "4";
 console.log("\t \n" + 2);
+console.log (ff);
