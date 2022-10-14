@@ -34,3 +34,4 @@ undefined + 1    NaN
 let ff = "4";
 console.log("\t \n" + 2);
 console.log (ff);
+comsole.log(12);
